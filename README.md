@@ -1,6 +1,5 @@
 # React 10 PRACTICE PROJECT FOR BEGINNERS
 
-![React Course](https://user-images.githubusercontent.com/50476777/236658237-3f141863-a1ed-4860-a847-71ced21fa8a5.png)
 
 Project that we are going to build in this complete practice course
 
